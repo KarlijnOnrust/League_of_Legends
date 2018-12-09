@@ -1,0 +1,17 @@
+.champscroll{
+  height:500px;
+  width:120px;
+  overflow:auto;
+}
+
+.marg{
+  padding: 5px;
+}
+
+.nav{
+  width: auto;
+}
+
+th, td {
+    padding: 15px;
+}
