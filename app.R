@@ -157,6 +157,7 @@ server <- function(input, output) {
 
     ggplot(filtered, aes(filtered[[input$x_as]] + filtered[[plusx()]] * (lv() - 1), filtered[[input$y_as]] + filtered[[plusy()]] * (lv() - 1), colour=NAME, label = NAME)) + geom_point(size=2) + geom_text(hjust = -0.1) + theme(legend.position="none") + labs(y = input$y_as, x = input$x_as)   
     
+    
   })
   
   
