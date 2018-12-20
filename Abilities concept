@@ -1,0 +1,48 @@
+<h3>
+  Passive
+</h3>
+<p>
+  You have a energie count from 1 to 100. How more energie you have, how more range on you abilities. Every 1 energie you will get ... extra ability range. You start the game with 10 energies. Using a ability consumes 5 energies.
+  </p>
+
+<h3>
+  Q
+</h3>
+<p>
+A skill shot like veigar q. It Rips out 15 energie from the enemy hit slowing them for 2% for 2 seconds and 'loading' the stone. Big monsters give halve the energie.
+Per lvl: Cd lowered by ... , slow increase by 0.2%.
+Mana usage:
+Cd:
+</p>
+
+<h3>
+  W
+</h3>
+<p>
+Mark an area with a diameter of ... . Champions in this area are slowed by 2%. After 2 seconds you will do ... damage to this area. Damage to minions and monsters is dubbled. You get 0.5% movementsspeed to the markt location. Both teams wil get 'sight' over this area.
+sight: vision over the area. Wards won't be revealed. Vision is also shown on the minimap.
+Per lvl: damage increases by ... , Cd lowered by ... .
+Mana usage:
+Cd:
+</p>
+
+<h3>
+  E
+</h3>
+<p>
+Mark an area.
+</p>
+Mark an area with a diameter of ... . This area will be markt (like Panbtheon ult). You climb in your stone healing you for 10% of you missing health over the time of 2 seconds and fligh to that location, leaving 'creater' behind. You will do ... damage in this area. You climb from you stone over the time of 1 second.
+Creater: stays for 3 seconds and slows for 2%.
+Per lvl: Climbing in and out takes 10% less time, Cd lowered by ... , healing uped by 5%.
+Mana usage:
+Cd:
+<h3>
+  R
+</h3>
+<p>
+  You climb in the stone over the time of 2 seconds and call all the stones from beneath de earth, causing a shockwave in a circel around you for 10 seconds. Champions within the shockwave are slowed for 10% and are damaged for ... . You will take 50% damage from all sourses. You can't move or cencel, climbing out takes 1 second.
+  Per lvl: Climbing in and out takes 20% less time  , slow increases by 0.2, damage increases by ... .
+  Mana usage:
+  Cd:
+  </p>
